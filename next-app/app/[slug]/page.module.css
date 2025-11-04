@@ -1,0 +1,10 @@
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 16px;
+}
+
+.articleContent {
+  line-height: 1.6;
+  margin-top: 16px;
+}

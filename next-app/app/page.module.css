@@ -1,0 +1,24 @@
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 16px;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+}
+
+.item {
+  margin-bottom: 24px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 16px;
+}
+
+.item h2 {
+  margin: 0 0 8px 0;
+}
+
+.item p {
+  margin: 0 0 4px 0;
+}
